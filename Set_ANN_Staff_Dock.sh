@@ -11,11 +11,11 @@ readonly SUDO="/usr/bin/sudo"
 readonly KILLALL="/usr/bin/killall"
 
 typeset -a DOCK_APPS=(
-  "/Applications/Google Chrome.app"
-  "/Applications/zoom.us.app"
-  "/Applications/Microsoft Teams.app"
-  "/Applications/Microsoft Outlook.app"
   "/Applications/Microsoft Word.app"
+  "/Applications/Microsoft Outlook.app"
+  "/Applications/Microsoft Teams.app"
+  "/Applications/zoom.us.app"
+  "/Applications/Google Chrome.app"
   "/Applications/Self Service.app"
 )
 
